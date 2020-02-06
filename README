@@ -1,0 +1,3 @@
+This program calculates and displays composites numbers. The user is asked for a nmuber
+between [1-400] and displays the composite numbers up to and including the nth composite number.  
+
